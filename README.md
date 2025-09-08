@@ -8,7 +8,6 @@ Este repositório contém a **Parte 2** do projeto da disciplina de Spring Frame
 -   **Arthur Bispo de Lima** - RM: 557568
 -   **João Paulo Moreira dos Santos** - RM: 557808
 
----
 ##  FASE 2: Aplicação Web com Spring MVC e Thymeleaf (Projeto Atual)
 
 Nesta fase, evoluímos o conceito original de uma API para uma aplicação web interativa e visualmente agradável, permitindo que um usuário gerencie o estoque de produtos diretamente pelo navegador.
